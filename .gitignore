@@ -1,2 +1,7 @@
 .venv
-hotdog*
+venv
+*.json
+*hotdog*
+*output
+*.jpg
+*.arrow
